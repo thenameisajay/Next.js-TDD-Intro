@@ -11,7 +11,7 @@ To deepen my understanding of clean code principles, I turned to Uncle Bob's sem
 The original repository, [Intro to TDD with Next.js](https://github.com/learn-tdd-in/next), serves as a foundational resource for learning TDD in Next.js. My repository introduces several modifications and enhancements to the original, including:
 
 - **Next.js Version Update**: The Next.js framework has been updated from version 12 to 14, ensuring compatibility with the latest features and improvements.
-- **Form Integration**: Unlike the original repository, where the input field lacked a form, I have incorporated a form element. This addition proved beneficial, as it allowed for page re-rendering upon form submission—a functionality absent in the original version.
+- **Form Integration**: Unlike the original repository, where the input field lacked a form, I have incorporated a form element. This was found when a test case continuosly kept failing and thereby proving its worth and fixed the issue.
 - **Enhanced Styling**: To improve the visual presentation of the project, I have applied basic styling enhancements. These changes contribute to a more polished and user-friendly interface.
 
 This repository reflects my ongoing exploration of TDD and clean code practices, marking a step forward in my professional development journey.
