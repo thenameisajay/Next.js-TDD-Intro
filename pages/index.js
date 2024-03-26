@@ -18,7 +18,7 @@ export default function Home() {
 
 
   return (
-    <div className="w-screen h-dvh justify-center flex items-center">
+    <div className="w-screen h-dvh justify-center flex flex-col items-center">
       <NewMessageForm onSend={handleSend} />
       <MessageList data={messages} />
     </div>
