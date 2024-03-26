@@ -3,6 +3,9 @@
 ## Overview
 This repository serves as an introductory guide to implementing Test-Driven Development (TDD) within the Next.js framework. Although the project presented here is relatively modest in scope, it aims to provide a solid foundation for understanding and applying TDD principles in Next.js development projects.
 
+## Purpose of This Repository : 
+- See [LEARN.md](LEARN.md) for the purpose and learning objectives of this repository.
+
 ## Technology Stack
 The project leverages a combination of technologies and tools integral to modern web development, specifically within the React ecosystem. These include:
 
